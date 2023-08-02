@@ -9,3 +9,34 @@
   </p>
 </p>
 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+Follow these simple example steps to get a local copy up and to run.
+
+
+### Installation
+
+1. Clone the repo
+```sh
+git clone https://github.com/mberkay0/ConvNeXt-MaskRCNN.git
+```
+2. Check if you have a virtual env 
+```sh
+virtualenv --version
+```
+3. If (not Installed) 
+```sh
+pip install virtualenv
+```
+4. Now create a virtual env in cd ConvNeXt-MaskRCNN/
+```sh
+virtualenv venv
+```
+5. Then download a python modules
+```sh
+pip install -r requirements.txt
+```
