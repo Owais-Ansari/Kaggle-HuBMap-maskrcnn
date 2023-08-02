@@ -44,10 +44,14 @@ pip install -r requirements.txt
 # Usage
 
 ## Training
+```
 python train.py
-Update the Inference.py
 ```
 
+Update the Inference.py
+
+
+```
 import torch
 
 class Config:
@@ -89,6 +93,7 @@ class Config:
 
 ## Prediction
 
+```
 import torch
 
 class Config:
@@ -125,6 +130,10 @@ class Config:
     verbose_num       = 10
     root_dir = '../HuBMAP/hubmap-hacking-the-human-vasculature/'
     test_dir = '../HuBMAP/hubmap-hacking-the-human-vasculature/test/'
+```
+
+```
+python predict.py
 ```
 
 
