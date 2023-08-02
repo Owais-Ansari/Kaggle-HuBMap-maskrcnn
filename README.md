@@ -44,9 +44,7 @@ pip install -r requirements.txt
 # Usage
 
 ## Training
-```
-python train.py
-```
+
 
 Update the Inference.py
 
@@ -89,7 +87,9 @@ class Config:
     root_dir = '../HuBMAP/hubmap-hacking-the-human-vasculature/'
     test_dir = '../HuBMAP/hubmap-hacking-the-human-vasculature/test/'
 ```
-
+```
+python train.py
+```
 
 ## Prediction
 
