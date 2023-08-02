@@ -22,7 +22,7 @@ Follow these simple example steps to get a local copy up and to run.
 
 1. Clone the repo
 ```sh
-git clone https://github.com/mberkay0/ConvNeXt-MaskRCNN.git
+git clone https://github.com/Owais-Ansari/Kaggle-HuBMap-maskrcnn.git
 ```
 2. Check if you have a virtual env 
 ```sh
@@ -32,7 +32,7 @@ virtualenv --version
 ```sh
 pip install virtualenv
 ```
-4. Now create a virtual env in cd ConvNeXt-MaskRCNN/
+4. Now create a virtual env in cd Kaggle-HuBMap-maskrcnn/
 ```sh
 virtualenv venv
 ```
