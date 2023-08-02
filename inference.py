@@ -32,5 +32,5 @@ class Config:
     num_classes       = 3
     device            = torch.device("cuda:0" if torch.cuda.is_available() else "cpu") 
     verbose_num       = 10
-    root_dir = '/mnt/imgproc/Owaish/Data/challange/HuBMAP/hubmap-hacking-the-human-vasculature/'
-    test_dir = '/mnt/imgproc/Owaish/Data/challange/HuBMAP/hubmap-hacking-the-human-vasculature/test/'
+    root_dir = '../HuBMAP/hubmap-hacking-the-human-vasculature/'
+    test_dir = '../HuBMAP/hubmap-hacking-the-human-vasculature/test/'
