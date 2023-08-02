@@ -1,5 +1,5 @@
 <br />
-<p align="center">
+<p align="left">
   
   <h1 align="center">  <a href="https://www.kaggle.com/owaishsalim/">Kaggle-HuBMap: Maskrcnn with ConvNext backbone</a></h1>
 
