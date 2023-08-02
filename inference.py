@@ -8,7 +8,7 @@ class Config:
     seed              = 101
     model_name        = 'MaskRCNN_'
     backbone          = 'convnext_tiny'
-    save_path         = '/mnt/imgproc/Owaish/Data/challange/HuBMAP/hubmap-hacking-the-human-vasculature/checkpoints/exp3/'
+    save_path         = '../HuBMAP/hubmap-hacking-the-human-vasculature/checkpoints/'
     class_names       = ['bkg', 'blood_vessels', 'glomerulus']
     weights           = '' # file path with weights of your pre-trained model
     pretrained        = False # If you have a pre-trained model, load weights
