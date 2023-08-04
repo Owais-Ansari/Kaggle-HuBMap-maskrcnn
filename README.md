@@ -4,7 +4,7 @@
   <h1 align="center">  <a href="https://www.kaggle.com/owaishsalim/">Kaggle-HuBMap: Maskrcnn with ConvNext backbone</a></h1>
 
   <p align="center">
-    Segment intstances of microvascular structures from health human kiney tissue slides.
+    Segment intstances of microvascular structures from healthy human kiney tissue slides.
     <br />
   </p>
 </p>
