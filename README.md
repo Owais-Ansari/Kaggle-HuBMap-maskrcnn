@@ -4,7 +4,7 @@
   <h1 align="center">  Kaggle-HuBMap: Maskrcnn with ConvNext backbone</h1>
 
   <p align="center">
-    Segment intstances of microvascular structures from healthy human kiney tissue slides.
+    Segment instances of microvascular structures from healthy human kidney tissue slides.
     <br />
   </p>
 </p>
