@@ -20,7 +20,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Follow these simple example steps to get a local copy up and to run.
+Follow these simple example steps to get a local copy up and running.
 
 
 ### Installation
